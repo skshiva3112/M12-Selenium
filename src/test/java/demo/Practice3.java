@@ -7,7 +7,7 @@ public class Practice3 {
 
 		System.out.println("Hii");
 		System.out.println("hello");
-		System.out.println("Hii Shiva");
+		System.out.println("Hii Shivu");
 	}
 
 }
